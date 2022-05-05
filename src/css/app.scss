@@ -1,0 +1,36 @@
+// app global css in SCSS form
+.form {
+  padding: 100px;
+  margin: 100px;
+  background-color: purple;
+  border: 120px solid darkmagenta;
+}
+
+.form {
+  padding: 100px;
+  margin: 100px;
+  background-color: purple;
+  border: 120px solid darkmagenta;
+}
+
+.jwt, .userData {
+  font-size: 25px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+button {
+  cursor: pointer;
+  margin: 12px;
+  padding: 12px;
+  border: solid black 1px;
+  color: purple;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: purple;
+  color:white;
+}
